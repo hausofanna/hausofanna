@@ -23,7 +23,6 @@ Some of the languages I program with are:
   <li>MySQL 🗄️</li>
 </ul>
 </div>
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <!--

@@ -10,7 +10,7 @@
 
 ## About me 
 <div>
-I am passionate about the world of technology, 3D design, video games, and cinema. 🎮🎥 I have a great interest and motivation in being part of teams and projects that allow me to progress and continue growing personally, especially in the fields of design and technology.💡🚀
+I am passionate about the world of technology, 3D design, video games, and cinema. I have a great interest and motivation in being part of teams and projects that allow me to progress and continue growing personally, especially in the fields of design and technology.
 Creative, passionate, resourceful, adaptable, and open-minded are traits that define me both in my work and in my daily life. 🎨✨
 </div>
 <div>
@@ -26,6 +26,5 @@ Creative, passionate, resourceful, adaptable, and open-minded are traits that de
 </div>
 <!--
 **hausofanna/hausofanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -->
+

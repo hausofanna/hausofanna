@@ -13,6 +13,7 @@
 ### :woman_technologist: About Me :
 <div align="justify">
 I am a Full Stack Developer from Spain. I am passionate about the world of technology, 3D design, video games, and cinema. I have a great interest and motivation in being part of teams and projects that allow me to progress and continue growing personally, especially in the fields of design and technology. I am currently attending a Bootcamp to specialize in programming, web development, and apps.
+I hold a degree in Multimedia Engineering: Applications and Video Games and a higher degree in 3D Animation, Video Games, and Interactive Environments.
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :

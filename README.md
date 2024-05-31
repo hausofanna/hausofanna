@@ -9,7 +9,7 @@
 </div>
 
 ## About me 
-<div align="center">
+<div>
 I am passionate about the world of technology, 3D design, video games, and cinema. 🎮🎥 I have a great interest and motivation in being part of teams and projects that allow me to progress and continue growing personally, especially in the fields of design and technology.💡🚀
 Creative, passionate, resourceful, adaptable, and open-minded are traits that define me both in my work and in my daily life. 🎨✨
 </div>

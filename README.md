@@ -15,10 +15,12 @@ Creative, passionate, resourceful, adaptable, and open-minded are traits that de
 </div>
   
 - 🌱 I am currently attending a Bootcamp to specialize in programming, web development, and apps. 📚💻 Some of the languages I program with are:
-• HTML5 and CSS 🌐
-• JavaScript (React) ⚛️
-• Java (Spring Boot) ☕️
-• MySQL 🗄️
+<ul>
+  <li>HTML5 and CSS 🌐</li>
+  <li>JavaScript (React) ⚛️</li>
+  <li>Java (Spring Boot) ☕️</li>
+  <li>MySQL 🗄️</li>
+</ul>
 - 😄 My pronouns are she/her.
 - 💬 If you have any questions, you can contact me on LinkedIn.
 

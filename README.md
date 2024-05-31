@@ -7,19 +7,23 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+## About me 
+<div align="center">
+I am passionate about the world of technology, 3D design, video games, and cinema. 🎮🎥 I have a great interest and motivation in being part of teams and projects that allow me to progress and continue growing personally, especially in the fields of design and technology.💡🚀
+Creative, passionate, resourceful, adaptable, and open-minded are traits that define me both in my work and in my daily life. 🎨✨
+</div>
   
+- 🌱 I am currently attending a Bootcamp to specialize in programming, web development, and apps. 📚💻 Some of the languages I program with are:
+• HTML5 and CSS 🌐
+• JavaScript (React) ⚛️
+• Java (Spring Boot) ☕️
+• MySQL 🗄️
+- 😄 My pronouns are she/her.
+- 💬 If you have any questions, you can contact me on LinkedIn.
+
 <!--
 **hausofanna/hausofanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-

@@ -23,7 +23,7 @@ Some of the languages I program with are:
   <li>MySQL 🗄️</li>
 </ul>
 </div>
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <!--
 **hausofanna/hausofanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->

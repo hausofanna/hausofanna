@@ -1,10 +1,11 @@
 ## Hey there this is Anna👋
-<div align="center>
 <h3>You can access my profile and follow me on LinkedIn to learn more about me, and you can also view some of my work on Behance.</h3>
-  </div>
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=black" alt="Behance Badge"/>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
   
 <!--

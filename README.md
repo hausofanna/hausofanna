@@ -12,12 +12,7 @@
 
 ### :woman_technologist: About Me :
 <div>
-I am a Full Stack Developer from Spain. I am passionate about the world of technology, 3D design, video games, and cinema. I have a great interest and motivation in being part of teams and projects that allow me to progress and continue growing personally, especially in the fields of design and technology. 
-  
-  
-  Creative, passionate, resourceful, adaptable, and open-minded are traits that define me both in my work and in my daily life. 🎨✨ 
-  
-  I am currently attending a Bootcamp to specialize in programming, web development, and apps.💻
+I am a Full Stack Developer from Spain. I am passionate about the world of technology, 3D design, video games, and cinema. I have a great interest and motivation in being part of teams and projects that allow me to progress and continue growing personally, especially in the fields of design and technology. I am currently attending a Bootcamp to specialize in programming, web development, and apps.
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :

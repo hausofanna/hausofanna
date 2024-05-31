@@ -1,7 +1,6 @@
 <div align="center">
 <h1>Hey there this is Anna👋</h1>
   </div>
-<h5 align="justify">You can access my profile and follow me on LinkedIn to learn more about me, and you can also view some of my work on Behance.</h3>
 <div align="center" id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=black" alt="Behance Badge"/>
@@ -30,4 +29,5 @@ I hold a degree in Multimedia Engineering: Applications and Video Games and a hi
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Blender" **alt="Blender" width="40" height="40"/>
 </div>

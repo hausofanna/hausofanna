@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hey there this is Anna👋</h1>
   </div>
-<h5 align="center">You can access my profile and follow me on LinkedIn to learn more about me, and you can also view some of my work on Behance.</h3>
+<h5 align="justify">You can access my profile and follow me on LinkedIn to learn more about me, and you can also view some of my work on Behance.</h3>
 <div align="center" id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=black" alt="Behance Badge"/>

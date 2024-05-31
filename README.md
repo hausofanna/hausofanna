@@ -1,5 +1,5 @@
 <div align="center">
-## Hey there this is Anna👋
+<h1>Hey there this is Anna👋</h1>
   </div>
 <h5 align="center">You can access my profile and follow me on LinkedIn to learn more about me, and you can also view some of my work on Behance.</h3>
 <div align="center" id="badges">

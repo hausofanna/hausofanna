@@ -2,7 +2,8 @@
 <h1>Hey there this is Anna👋🐼</h1>
   </div>
 <div align="center" id="badges">
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/anna-canivell-racero/"/>
+  <a href="linkedin.com/in/anna-canivell-racero"><img src="https://img.shields.io/badge/Linkedin-Linkedin-green?labelColor=blue&style=social&logo=blue&logoColor=white&link=linkedin.com/in/anna-canivell-racero" alt="Linkedin" /></a>
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
    <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=black" alt="Behance Badge"/>
 </div>
 <div align="center">
